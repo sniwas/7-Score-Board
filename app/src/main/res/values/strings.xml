@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ex1</string>
+    <string name="score_board">Score Board</string>
+    <string name="team_a">TEAM A</string>
+    <string name="team_b">TEAM B</string>
+    <string name="score_a">SCORE A</string>
+    <string name="score_b">SCORE B</string>
+    <string name="add">ADD</string>
+    <string name="add1">ADD</string>
+    <string name="reset">RESET</string>
+    <string name="result">RESULT</string>
+</resources>
